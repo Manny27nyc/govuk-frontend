@@ -9,6 +9,7 @@
 ### Fixes
 
 - [#2347: Fix panel text overflowing when zoomed in on mobile #2347](https://github.com/alphagov/govuk-frontend/pull/2347)
+- [#2255: Fix conditionally revealed questions getting out of sync when multiple sets of radios and checkboxes contain inputs with the same name](https://github.com/alphagov/govuk-frontend/pull/2255)
 
 ## 3.13.1 (Fix release)
 
