@@ -268,7 +268,7 @@
 
     // As Chevron icon is vertically aligned it overlaps with the focus state bottom border
     // Styling adds some spacing
-    .govuk-accordion__section-button:focus .govuk-accordion__section-toggle {
+    .govuk-accordion__section-button:focus .govuk-accordion__section-toggle-focus {
       padding-bottom: 3px;
 
       @include govuk-media-query ($from: desktop) {
